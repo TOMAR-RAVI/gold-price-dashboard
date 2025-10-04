@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 yfinance
@@ -5,3 +6,11 @@ plotly
 streamlit
 prophet
 pandas_ta
+=======
+pandas
+numpy
+yfinance
+plotly
+streamlit
+prophet
+>>>>>>> 31bd6b5b60ec2a60820fc1d7e94d63d2adc2eb94
