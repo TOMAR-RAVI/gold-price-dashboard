@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import yfinance as yf
 import pandas as pd
 
@@ -28,4 +27,3 @@ gold_data.to_csv('gold_prices.csv')
 
 # Print the first few rows to check
 print(gold_data.head())
->>>>>>> 31bd6b5b60ec2a60820fc1d7e94d63d2adc2eb94
